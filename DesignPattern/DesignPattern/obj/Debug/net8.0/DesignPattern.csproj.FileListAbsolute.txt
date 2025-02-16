@@ -1,0 +1,14 @@
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.exe
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.deps.json
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.runtimeconfig.json
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.dll
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.pdb
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfoInputs.cache
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfo.cs
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.dll
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\obj\Debug\net8.0\refint\DesignPattern.dll
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.pdb
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.genruntimeconfig.cache
+D:\code\C#\DesignPatterns\DesignPattern\DesignPattern\obj\Debug\net8.0\ref\DesignPattern.dll

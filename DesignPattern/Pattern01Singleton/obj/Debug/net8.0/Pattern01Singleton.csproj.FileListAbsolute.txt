@@ -1,0 +1,14 @@
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\obj\Debug\net8.0\Pattern01Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\obj\Debug\net8.0\Pattern01Singleton.AssemblyInfoInputs.cache
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\obj\Debug\net8.0\Pattern01Singleton.AssemblyInfo.cs
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\obj\Debug\net8.0\Pattern01Singleton.csproj.CoreCompileInputs.cache
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\bin\Debug\net8.0\Pattern01Singleton.exe
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\bin\Debug\net8.0\Pattern01Singleton.deps.json
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\bin\Debug\net8.0\Pattern01Singleton.runtimeconfig.json
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\bin\Debug\net8.0\Pattern01Singleton.dll
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\bin\Debug\net8.0\Pattern01Singleton.pdb
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\obj\Debug\net8.0\Pattern01Singleton.dll
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\obj\Debug\net8.0\refint\Pattern01Singleton.dll
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\obj\Debug\net8.0\Pattern01Singleton.pdb
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\obj\Debug\net8.0\Pattern01Singleton.genruntimeconfig.cache
+D:\code\C#\DesignPatterns\DesignPattern\Pattern01Singleton\obj\Debug\net8.0\ref\Pattern01Singleton.dll
